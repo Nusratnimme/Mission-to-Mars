@@ -36,4 +36,4 @@ Bootstrap elements were added to enhance the appearance of the web page and to m
 ### Python web application
 The application interacted with Mongodb and used the scrapping script and the HTML script to render the scrapping web application.
 
-![web app](web app.PNG)
+![web app](https://github.com/Nusratnimme/Mission-to-Mars/blob/main/Resources/web%20app.png)
