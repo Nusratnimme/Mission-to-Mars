@@ -16,7 +16,7 @@ Robin, a data scientist, is very much interested in astronomy. She would like to
 The main purposes in this exercise are to:
 1. scrape NASA's webpage on Mars;
 2. store the data into Mongodb;
-3. create a Flask web application to interact with Mongodb  render and interactive webpage to scrape the data whenever needed.
+3. create a Flask web application to interact with Mongodb and render an interactive webpage to scrape the data whenever needed.
 
 ## Outputs
 ### Python script to scrape Mars data
